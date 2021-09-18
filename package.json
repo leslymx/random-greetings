@@ -1,5 +1,5 @@
 {
-  "name": "random-greetings",
+  "name": "rand-greetings",
   "version": "1.0.2",
   "description": "This package throws greetings randomly",
   "main": "src/index.js",
