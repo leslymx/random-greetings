@@ -1,0 +1,21 @@
+{
+  "name": "random-greetings-mx",
+  "version": "1.0.0",
+  "description": "This package throws greetings randomly",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm",
+    "random"
+  ],
+  "author": "Lesly Perez <lkspmx@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
