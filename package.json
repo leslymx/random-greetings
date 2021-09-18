@@ -1,6 +1,6 @@
 {
   "name": "random-greetings-mx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package throws greetings randomly",
   "main": "src/index.js",
   "scripts": {
