@@ -5,7 +5,7 @@ This package throws greetings randomly, you can modify it if you need any other 
 ## Install
 
 ```
-npm install -g random-msg
+npm install -g random-greetings-mx
 ```
 
 ## Usage

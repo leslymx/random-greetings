@@ -1,5 +1,5 @@
 {
-  "name": "random-greetings-mx",
+  "name": "random-greetings",
   "version": "1.0.1",
   "description": "This package throws greetings randomly",
   "main": "src/index.js",
@@ -15,7 +15,7 @@
   "author": "Lesly Perez <lkspmx@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "bin/global.js"
+    "random-msg": "./bin/global.js"
   },
   "preferGlobal": true,
   "repository": {
